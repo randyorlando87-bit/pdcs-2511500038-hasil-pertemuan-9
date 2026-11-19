@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mahasiswa</string>
+    <string name="uji_koneksi_api">Uji Koneksi API</string>
+    <string name="status_belum_terhubung">Status: Belum terhubung</string>
+</resources>
